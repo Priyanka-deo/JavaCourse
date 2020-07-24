@@ -5,7 +5,7 @@ public class Exercise7 {
         int annualSalary = 960;
         int year = 12;
         int result = (960 / 12);
-        System.out.println("Employee earns rupay monthly is " + result);
+        System.out.println("Employee earns " + result + " rupay monthly salary");
 
 
     }
