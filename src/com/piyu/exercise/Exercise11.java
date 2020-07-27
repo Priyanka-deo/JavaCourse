@@ -1,6 +1,6 @@
 package com.piyu.exercise;
-public class Exercise10 {
 
+public class Exercise11 {
     public static void main(String[] args) {
         float initialAmountBorrowed = 5000;
         float rateOfInterest = 10;
