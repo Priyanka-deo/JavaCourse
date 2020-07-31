@@ -1,6 +1,6 @@
 package com.piyu.exercise;
 
-public class Exercise32 {
+public class Exercise33 {
     public static void main(String[] args) {
         int i = 10;
         int j;
@@ -8,11 +8,9 @@ public class Exercise32 {
             j = 20;
         } else if (i == 20) {
             j = 30;
-        }
-        else
-        {
+        } else {
             j = 40;
         }
-        System.out.println(j);// j variable is not initialize
+        System.out.println(j);
     }
 }
