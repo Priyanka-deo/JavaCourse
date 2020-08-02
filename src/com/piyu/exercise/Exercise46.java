@@ -7,6 +7,6 @@ public class Exercise46 {
         {
             System.out.println("Inside loop");
         }
-        System.out.println("After loop");
+       // System.out.println("After loop");
     }
 }
