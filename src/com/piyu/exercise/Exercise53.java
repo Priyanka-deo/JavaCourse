@@ -7,7 +7,7 @@ public class Exercise53 {
             if (i == 5) {
                 System.out.println("Inside loop Before continue");
                 continue;
-                System.out.println("Inside loop After continue");
+                //System.out.println("Inside loop After continue");
             }
         }
         System.out.println("After loop");
