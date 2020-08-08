@@ -11,9 +11,9 @@ public class PrimeNo {
             }
         }
         if (temp == 0) {
-            System.out.println(no + " is prime number ");
+            System.out.println(no + " is  not prime number ");
         } else {
-            System.out.println(no + " is not prime number ");
+            System.out.println(no + " is prime number ");
         }
     }
 }
