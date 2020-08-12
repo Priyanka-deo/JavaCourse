@@ -1,5 +1,3 @@
-package com.piyu.exercise;
-
 public class NumericPattern2 {
     public static void main(String[] args) {
         int numOfVerticalLines = 9;
