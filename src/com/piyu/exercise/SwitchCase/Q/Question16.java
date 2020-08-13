@@ -19,21 +19,21 @@ public class Question16 {
                         }
                     case 2:
                         //int i = 2;
-                        System.out.println(i + "." + deer);
+                        //System.out.println(i + "." + deer);
                         if(number != 0)
                         {
                             break;
                         }
                     case 3:
                         //int i = 3;
-                        System.out.println(i + "."+ donkey);
+                        //System.out.println(i + "."+ donkey);
                         if(number != 0)
                         {
                             break;
                         }
                     case 4:
                         //int i = 4;
-                        System.out.println(i + "." + monkey);
+                       // System.out.println(i + "." + monkey);
                         break;
                     default:
                         System.out.println("No Animals are present");
@@ -41,5 +41,5 @@ public class Question16 {
             }
         }
 
-    }
-}
+
+
