@@ -18,21 +18,21 @@ public class Question16 {
                             break;
                         }
                     case 2:
-                        int i = 2;
+                        //int i = 2;
                         System.out.println(i + "." + deer);
                         if(number != 0)
                         {
                             break;
                         }
                     case 3:
-                        int i = 3;
+                        //int i = 3;
                         System.out.println(i + "."+ donkey);
                         if(number != 0)
                         {
                             break;
                         }
                     case 4:
-                        int i = 4;
+                        //int i = 4;
                         System.out.println(i + "." + monkey);
                         break;
                     default:

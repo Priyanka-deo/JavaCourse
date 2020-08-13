@@ -32,7 +32,7 @@ public class Question15 {
                     break;
                 }
             case 4:
-                int i = 4;
+               // int i = 4;
                //System.out.println(i + "." + monkey);
                 break;
             default:
