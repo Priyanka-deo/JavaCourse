@@ -12,9 +12,9 @@ public class Question4 {
             case 'E':
                 System.out.println("East");
                 break;
-            case west:
-                System.out.println("West");
-                break;
+            //case west:
+                //System.out.println("West");
+               // break;
             case 'S':
                 System.out.println("South");
         }
