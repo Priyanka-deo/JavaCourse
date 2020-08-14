@@ -14,7 +14,7 @@ public class Question18 {
             case 010:
                 System.out.println("-010-");
             default:
-                System.out.println("-" + x & y + "-");
+                //System.out.println("-" + x & y + "-");
         }
     }
 }
