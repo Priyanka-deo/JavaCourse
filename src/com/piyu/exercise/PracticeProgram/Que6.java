@@ -1,28 +1,25 @@
 package com.piyu.exercise.PracticeProgram;
 
-public class Que5 {
+public class Que6 {
     public static void main(String[] args) {
-        int i = 10;
-        switch (i) {
-            case 5:
-                System.out.println("Five");
+        final int i = 5, j = 10, k = 15, l = 20;
+        switch (10){
+            case i:
+                System.out.println("FIve");
                 break;
-            case 10:
+            case j:
                 System.out.println("Ten");
                 break;
-            case 15:
+            case k:
                 System.out.println("Fifteen");
                 break;
-            case 20:
+            case l:
                 System.out.println("Twenty");
                 break;
             default:
                 System.out.println("Default");
                 break;
-
-
-
-
         }
+
     }
 }
