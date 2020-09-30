@@ -1,4 +1,4 @@
-package com.piyu.exercise.PracticeProgram;
+package com.piyu.exercise.classesinjava;
 
 public class Que1 {
     public static void main(String[] args) {

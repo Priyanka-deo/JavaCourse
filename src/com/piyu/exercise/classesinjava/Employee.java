@@ -1,4 +1,4 @@
-package com.piyu.exercise.PracticeProgram;
+package com.piyu.exercise.classesinjava;
 
 public class Employee {
     int eno = 111;
@@ -17,11 +17,3 @@ public class Employee {
         System.out.println("Employee Mobile    :" + emobile);
     }
 }
-    class Test
-    {
-        public static void main(String[] args) {
-            Employee emp = new Employee();
-            emp.getEmpDetails();
-        }
-    }
-

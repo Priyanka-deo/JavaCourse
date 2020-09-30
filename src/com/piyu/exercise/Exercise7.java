@@ -5,6 +5,6 @@ public class Exercise7 {
         float annualSalary = 960;
         int numberOfMonths = 12;
         float result = (annualSalary / numberOfMonths);
-        System.out.println("Employee earns " + result + " rupay monthly salary");
+        System.out.println("Employee.java earns " + result + " rupay monthly salary");
     }
 }

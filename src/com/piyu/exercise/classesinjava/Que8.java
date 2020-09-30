@@ -1,8 +1,9 @@
-package com.piyu.exercise.PracticeProgram;
+package com.piyu.exercise.classesinjava;
 
-public class Que7 {
+public class Que8 {
     public static void main(String[] args) {
-        for(int i = 0; i < 10; i++)
+        int i = 0;
+        for(;i < 10; i++)
         {
             System.out.println(i);
         }
